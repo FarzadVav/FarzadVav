@@ -1,5 +1,5 @@
 <h1>
- Hi friend's <img height="35px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" /> My name in Farzad
+ Hi friend's <img height="35px" src="https://github.com/FarzadVav/FarzadVav/blob/main/hand.gif" /> My name in Farzad
 </h1>
 
 I am a creative frontend developer. I am very interested in the world of `0` and `1` and I have been learning every day for 2 years.
@@ -10,10 +10,8 @@ I am a creative frontend developer. I am very interested in the world of `0` and
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-
  <h2>
-  Cooperation with me <img height="40px" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />
+  Cooperation with me <img height="40px" src="https://github.com/FarzadVav/FarzadVav/blob/main/coop.gif" />
  </h2>
  
  - <a href="https://linkedin.com">Linkedin</a>
