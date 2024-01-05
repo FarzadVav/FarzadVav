@@ -16,8 +16,6 @@ I am a creative frontend developer. I am very interested in the world of `0` and
   Cooperation with me <img height="40px" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />
  </h2>
  
- <a href="https://linkedin.com">Linkedin <img height="35px" alt="Farzad Vahdati Linkedin account" src="https://github.com/FarzadVav/FarzadVav/blob/main/icons8-linkedin-96.png" /></a>
- 
-<a href="https://instagram.com/farzad_vav">Instagram <img height="35px" alt="Farzad Vahdati Instagram account" src="https://github.com/FarzadVav/FarzadVav/blob/main/icons8-insta-96.png" /></a>
-
-<a href="https://t.me/fz_vav">Telegram <img height="35px" alt="Farzad Vahdati Telegram account" src="https://github.com/FarzadVav/FarzadVav/blob/main/icons8-telegram-96.png" /></a>
+ - <a href="https://linkedin.com">Linkedin</a>
+ - <a href="https://instagram.com/farzad_vav">Instagram</a>
+ - <a href="https://t.me/fz_vav">Telegram</a>
