@@ -13,8 +13,8 @@ I am a creative frontend developer. I am very interested in the world of `0` and
  <br />
  
 <p>
- <img height="175px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
- <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+ <img height="175px" src="https://github-readme-stats.vercel.app/api?username=FarzadVav&show_icons=true&theme=radical" />
+ <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzadVav&hide_progress=true" />
 </p>
 
  ---
