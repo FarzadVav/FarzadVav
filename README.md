@@ -10,10 +10,22 @@ I am a creative frontend developer. I am very interested in the world of `0` and
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- <h2>
-  Cooperation with me <img height="40px" src="https://github.com/FarzadVav/FarzadVav/blob/main/coop.gif" />
- </h2>
+ ---
+
+<p align="center">
+ Cooperation with me <img height="20px" src="https://github.com/FarzadVav/FarzadVav/blob/main/coop.gif" />
+</p>
+
+<p align="center">
+ <a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/Linkedin-@farzad_vav-blue?logo=linkedin" />
+ </a>
  
- - <a href="https://linkedin.com">Linkedin</a>
- - <a href="https://instagram.com/farzad_vav">Instagram</a>
- - <a href="https://t.me/fz_vav">Telegram</a>
+ <a href="https://instagram.com/farzad_vav">
+  <img src="https://img.shields.io/badge/Instagram-@farzad_vav-red?logo=instagram" />
+ </a>
+ 
+ <a href="https://t.me/fz_vav">
+  <img src="https://img.shields.io/badge/Telegram-@fz_vav-blue?logo=telegram" />
+ </a>
+</p>
