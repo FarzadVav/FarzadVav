@@ -12,23 +12,25 @@ I am a creative frontend developer. I am very interested in the world of `0` and
 
  <br />
  
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzadVav&hide_progress=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzadVav&hide_progress=true" />
 
- ---
+<br />
 
-<p align="center">
- Contact to me <img height="20px" src="https://github.com/FarzadVav/FarzadVav/blob/main/coop.gif" />
-</p>
+<h2 align="center">
+ Contact to me 🖐
+</h2>
 
 <p align="center">
+ <a href="mailto:farzad.vav.work@gmail.com">
+  <img src="https://img.shields.io/badge/email-farzad.vav.work@gmail.com-red?logo=gmail" />
+ </a>
+ 
  <a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/Linkedin-@farzad_vav-blue?logo=linkedin" />
  </a>
  
  <a href="https://instagram.com/farzad_vav">
-  <img src="https://img.shields.io/badge/Instagram-@farzad_vav-red?logo=instagram" />
+  <img src="https://img.shields.io/badge/Instagram-@farzad_vav-magenta?logo=instagram" />
  </a>
  
  <a href="https://t.me/fz_vav">
