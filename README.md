@@ -25,15 +25,11 @@ I am a creative frontend developer. I am very interested in the world of `0` and
   <img src="https://img.shields.io/badge/email-farzad.vav.work@gmail.com-red?logo=gmail" />
  </a>
  
- <a href="https://linkedin.com">
+ <a href="https://www.linkedin.com/in/farzad-vahdati-621373325/">
   <img src="https://img.shields.io/badge/Linkedin-@farzad_vav-blue?logo=linkedin" />
  </a>
  
- <a href="https://instagram.com/farzad_vav">
-  <img src="https://img.shields.io/badge/Instagram-@farzad_vav-magenta?logo=instagram" />
- </a>
- 
- <a href="https://t.me/fz_vav">
+ <a href="https://t.me/farzadvahdati">
   <img src="https://img.shields.io/badge/Telegram-@fz_vav-blue?logo=telegram" />
  </a>
 </p>
