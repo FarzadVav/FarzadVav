@@ -26,10 +26,10 @@ I am a creative frontend developer. I am very interested in the world of `0` and
  </a>
 
 <a href="https://www.instagram.com/farzad_vav">
- <img src="https://img.shields.io/badge/Instagram-@farzad_vav?logo=instagram" />
+ <img src="https://img.shields.io/badge/Instagram-@farzad_vav-purple?logo=instagram" />
 </a>
  
  <a href="https://t.me/farzadvahdati">
-  <img src="https://img.shields.io/badge/Telegram-@farzadvahdati?logo=telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@farzadvahdati-blue?logo=telegram" />
  </a>
 </p>
